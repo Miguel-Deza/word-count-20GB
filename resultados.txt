@@ -1,0 +1,17 @@
+kiwis: 131144039
+fresas: 131144039
+moras: 131144039
+aguacates: 131144039
+peras: 131144039
+limones: 131144039
+frambuesas: 131144039
+sandias: 131144039
+melones: 131144039
+naranjas: 131144039
+bananas: 131144039
+papayas: 131144039
+manzanas: 131144039
+cocos: 131144039
+cerezas: 131144039
+uvas: 131144039
+mangos: 131144039
